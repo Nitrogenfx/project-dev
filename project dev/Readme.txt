@@ -1,6 +1,4 @@
-Thanks for downloading this theme!
+Thanks for viewing our work!
+welcome to DEvfx Hub
 
-Theme Name: NewBiz
-Theme URL: https://bootstrapmade.com/newbiz-bootstrap-business-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+
